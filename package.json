@@ -1,0 +1,20 @@
+{
+  "name": "automatedReleasePOC",
+  "version": "1.0.0",
+  "description": "A little project to try out some ideas for automating a release",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeatherJLewis/automatedReleasePOC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HeatherJLewis/automatedReleasePOC/issues"
+  },
+  "homepage": "https://github.com/HeatherJLewis/automatedReleasePOC#readme"
+}
