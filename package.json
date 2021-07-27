@@ -1,6 +1,6 @@
 {
   "name": "automatedReleasePOC",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "A little project to try out some ideas for automating a release",
   "main": "index.js",
   "scripts": {
