@@ -16,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/HeatherJLewis/automatedReleasePOC/issues"
   },
-  "homepage": "https://github.com/HeatherJLewis/automatedReleasePOC#readme",
-  "devDependencies": {
-    "id-styleguide": "git+ssh://git@github.com/bbc/id-styleguide.git#13.12.4"
-  }
+  "homepage": "https://github.com/HeatherJLewis/automatedReleasePOC#readme"
 }
